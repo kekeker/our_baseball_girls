@@ -10,7 +10,6 @@ layout: compress
     <title>{{ site.title }}</title>
     <meta name="description" content="{{ site.description }}"/>
     <meta name="keywords" content="{{ site.keywords }}"/>
-    <meta name="author" content="{{ site.author }}"/>
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/css/normalize.css"/>
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/fonts/font-awesome/css/font-awesome.css"/>
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/css/modern-blog.css"/>
@@ -51,7 +50,7 @@ layout: compress
                                 <polygon class="clip" points="0,1000 0,0 2100,0 2100,1000"></polygon>
                             </clipPath>
                         </defs>
-                        <image clip-path="url(#{{ post.id }}-clip-path)" width="1920" height="1200"
+                        <image clip-path="url(#{{ post.id }}-clip-path)" width="2100" height="1000"
                                xlink:href="{{ site.baseurl }}/{{ post.image }}"></image>
                     </svg>
                     <div class="card__content">
@@ -62,7 +61,6 @@ layout: compress
                         </div>
                         <div class="card__copy">
                             <div class="meta">
-                                <span class="meta__author">{{ post.author }}</span>
                                 <span class="meta__date">{{ post.date | date: "%Y-%m-%d" }}</span>
                             </div>
                             {{ post.content }}

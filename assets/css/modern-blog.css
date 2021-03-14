@@ -136,11 +136,6 @@
 	align-items: center;
 }
 
-.meta__author {
-	font-weight: bold;
-	padding: 0 15px;
-}
-
 .meta__date {
 	margin: 0 0 0 auto;
 }
