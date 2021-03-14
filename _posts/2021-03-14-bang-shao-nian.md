@@ -9,7 +9,8 @@ image: "assets/images/bangshaonian0.png"
 <html>
 <body>
 <blockquote>
-<p>片名: 棒!少年</p>
+<font size=2>
+<p>棒!少年</p>
 <p>导演: 许慧晶</p>
 <p>编剧: 许慧晶</p> 
 <p>主演: 马虎 / 梁正双 / 张锦新 / 孙岭峰 / 郭忠健</p>
@@ -19,6 +20,7 @@ image: "assets/images/bangshaonian0.png"
 <p>上映日期: 2020-12-11(中国大陆) / 2021-01-12(中国大陆网络) / 2020-07-28(FIRST青年影展)</p>
 <p>片长: 108分钟</p>
 <p>又名: Tough Out</p>
+</font>
 </blockquote>
 </body>
 <style>
@@ -51,4 +53,4 @@ image: "assets/images/bangshaonian0.png"
 ---
 
 ## 我有话说
-这是记录我们日常的一部片子,没想到自己的生活有一天会被搬到大荧幕上,未来我们会怀抱希望,继续努力!
+这是记录我们日常的一部片子，没想到自己的生活有一天会被搬到大荧幕上，未来我们会怀抱希望，继续努力！
