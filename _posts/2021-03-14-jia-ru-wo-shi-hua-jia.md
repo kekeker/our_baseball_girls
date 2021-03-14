@@ -1,6 +1,6 @@
 ---
 title:  "假如我是画家"
-subtitle: "一部记录强棒少年成长的纪录片"
+subtitle: "我的梦想"
 image: "assets/images/woshihuajia0.png"
 ---
 
@@ -29,5 +29,4 @@ image: "assets/images/woshihuajia0.png"
 是这里孕育了我，  
 我会像索玛花一样绽放！  
 
-![1]({{ site.baseurl }}/assets/images/woshihuajia1.jpeg)![2]({{ site.baseurl }}/assets/images/woshihuajia2.jpeg)![3]({{ site.baseurl }}/assets/images/woshihuajia3.jpeg)
-![4]({{ site.baseurl }}/assets/images/woshihuajia4.jpeg)![5]({{ site.baseurl }}/assets/images/woshihuajia5.jpeg)![6]({{ site.baseurl }}/assets/images/woshihuajia6.jpeg)
+![1]({{ site.baseurl }}/assets/images/woshihuajia8.jpeg)
