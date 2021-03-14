@@ -4,6 +4,8 @@ subtitle: "我的梦想"
 image: "assets/images/woshihuajia0.png"
 ---
 
+假如我是画家
+
 假如我是画家，  
 我要画一颗棒球⚾️，  
 是棒球给了我信念，  
