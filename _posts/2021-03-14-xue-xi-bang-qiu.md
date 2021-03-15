@@ -6,8 +6,6 @@ image: "assets/images/riji0.jpeg"
 
 <p align="center"><iframe height=300 width=600 src="{{ site.baseurl }}/assets/images/bangqiuxunlian.mp4" frameborder=0 allowfullscreen></iframe></p>
 
-好开心~
-
 来到棒球基地已经半年啦~
 
 上午起床，先去上文化课，老师说啦，我们要德智体美全面发展,不学文化课之后是会吃亏哒。  

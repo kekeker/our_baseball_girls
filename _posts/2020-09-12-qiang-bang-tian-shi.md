@@ -14,7 +14,7 @@ image: "assets/images/qiangbang0.png"
 * 第三届“海峡杯”学生棒球联赛总决赛季军
 * 等等
 
-<div align=center>![1]({{ site.baseurl }}/assets/images/qiangbang2.png)
+![1]({{ site.baseurl }}/assets/images/qiangbang2.png)
 
 ## 我们做了什么？
 在强棒天使棒球基地，更多的是自信心的提升，积极向上的生活态度，以及了解社会、适应社会的能力：
@@ -39,4 +39,4 @@ image: "assets/images/qiangbang0.png"
 
 欢迎各位有志之士能够一起加入到这个项目中，下边是官方微博以及微信公众号，参与项目的孩子们的近况都会发表在平台上。
 另外也希望各界人士能够多多转发，让孩子们能够让更多的人看到！
-<div align=center>![2]({{ site.baseurl }}/assets/images/qiangbang1.png)
+![2]({{ site.baseurl }}/assets/images/qiangbang1.png)
