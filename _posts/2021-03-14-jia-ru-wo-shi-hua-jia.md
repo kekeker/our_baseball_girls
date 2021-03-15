@@ -5,7 +5,9 @@ image: "assets/images/woshihuajia0.png"
 ---
  
 
-假如我是画家，  
+<div align=center>
+
+假如我是画家，   
 我要画一颗棒球⚾️，  
 是棒球给了我信念，  
 在无助中有了新的目标！  

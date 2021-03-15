@@ -22,4 +22,4 @@ hi～
 
 期待，兴奋地搓手手(>^ω^<)
 
-![1]({{ site.baseurl }}/assets/images/ziwojieshao1.jpeg)
+<div align=center>![1]({{ site.baseurl }}/assets/images/ziwojieshao1.jpeg)
