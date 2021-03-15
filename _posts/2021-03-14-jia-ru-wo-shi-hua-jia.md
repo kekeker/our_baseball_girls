@@ -3,9 +3,6 @@ title:  "假如我是画家"
 subtitle: "吾尔金朱的个人日记2"
 image: "assets/images/woshihuajia0.png"
 ---
- 
-
-<div align=center>
 
 假如我是画家，   
 我要画一颗棒球⚾️，  
