@@ -1,6 +1,6 @@
 ---
 title:  "假如我是画家"
-subtitle: "我有一个梦想"
+subtitle: "吾尔金朱的个人日记2"
 image: "assets/images/woshihuajia0.png"
 ---
  

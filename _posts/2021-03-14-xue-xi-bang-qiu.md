@@ -1,8 +1,10 @@
 ---
 title:  "今天还是努力练习棒球的一天"
-subtitle: "吾尔金朱的个人日记"
+subtitle: "吾尔金朱的个人日记3"
 image: "assets/images/riji0.jpeg"
 ---
+
+<p align="center"><iframe height=300 width=600 src="{{ site.baseurl }}/assets/images/bangqiuxunlian.mp4" frameborder=0 allowfullscreen></iframe></p>
 
 好开心~
 
@@ -14,4 +16,3 @@ image: "assets/images/riji0.jpeg"
 
 我相信，只要我们不断努力，领奖台一定属于我们！
 
-<iframe height=300 width=600 src="{{ site.baseurl }}/assets/images/bangqiuxunlian.mp4" frameborder=0 allowfullscreen></iframe>
