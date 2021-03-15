@@ -1,7 +1,7 @@
 ---
-title:  "吾尔金朱的日记本"
-subtitle: "今天还是努力练习棒球的一天"
-image: "assets/images/riji0.png"
+title:  "今天还是努力练习棒球的一天"
+subtitle: "吾尔金朱的个人日记"
+image: "assets/images/riji0.jpeg"
 ---
 
 好开心~
