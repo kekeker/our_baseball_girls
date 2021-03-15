@@ -142,6 +142,9 @@
 
 .card__copy img {
     width: 75%;
+	display: table-cell;
+	vertical-align: middle;
+	text-align: center;
 }
 
 @media only screen and (max-width: 980px) {
