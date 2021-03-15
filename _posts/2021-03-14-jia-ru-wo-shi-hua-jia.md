@@ -4,6 +4,8 @@ subtitle: "吾尔金朱的个人日记2"
 image: "assets/images/woshihuajia0.png"
 ---
 
+![1]({{ site.baseurl }}/assets/images/woshihuajia8.jpeg)
+
 假如我是画家，   
 我要画一颗棒球⚾️，  
 是棒球给了我信念，  
@@ -29,4 +31,3 @@ image: "assets/images/woshihuajia0.png"
 是这里孕育了我，  
 我会像索玛花一样绽放！  
 
-![1]({{ site.baseurl }}/assets/images/woshihuajia8.jpeg)
