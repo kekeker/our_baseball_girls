@@ -2,9 +2,9 @@
 baseurl: "/our_baseball_girls"
 
 # 网站的主标题
-title: "棒球天使队"
+title: "强棒少女吾尔金朱的个人博客"
 # 网站副标题
-subTitle: "吾尔金朱的个人博客"
+subTitle: "记录美好生活"
 
 # 其它配置, 可忽略, 无需修改
 permalink: /:title/
