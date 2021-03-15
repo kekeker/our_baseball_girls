@@ -4,7 +4,7 @@ subtitle: "一部记录强棒少年成长的纪录片"
 image: "assets/images/bangshaonian0.png"
 ---
 
-<iframe src="//player.bilibili.com/player.html?aid=885577854&bvid=BV1fK4y157eo&cid=265055334&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="width:2000px;height:1500px"> </iframe>
+<iframe src="//player.bilibili.com/player.html?aid=885577854&bvid=BV1fK4y157eo&cid=265055334&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="width:600px;height:450px"> </iframe>
 
 <html>
 <body>

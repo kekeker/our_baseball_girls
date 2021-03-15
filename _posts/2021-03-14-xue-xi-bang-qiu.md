@@ -14,4 +14,4 @@ image: "assets/images/riji0.jpeg"
 
 我相信，只要我们不断努力，领奖台一定属于我们！
 
-<iframe height=498 width=510 src="{{ site.baseurl }}/assets/images/bangqiuxunlian.mp4" frameborder=0 allowfullscreen></iframe>
+<iframe height=300 width=600 src="{{ site.baseurl }}/assets/images/bangqiuxunlian.mp4" frameborder=0 allowfullscreen></iframe>
